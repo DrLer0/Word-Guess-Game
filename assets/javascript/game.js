@@ -63,7 +63,6 @@ function initializeGame() {
     emptyString = [];
     updateWins();
     emptyGuessedLetters();
-    // myMusic = new sound(musicLinks[currentWordIndex]);
 
     for (var i = 0; i < currentWordArray.length; i++) {
         if (currentWordArray[i] == " ") {
