@@ -6,3 +6,6 @@ Christmas Themed Word Guessing Game!
 * You lose if you guess too many letters for each word
 
 Find out the words and hear the hidden music!
+
+## Technologies Used:
+HTML, CSS, Javascript
